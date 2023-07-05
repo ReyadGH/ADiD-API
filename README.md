@@ -1,2 +1,2 @@
-# ADiD-API
-Arabic Dialect Identification API for Text &amp; Twitter Users/Hashtags
+# ADiD-api
+Arabic Dialect Identification api for Text &amp; Twitter Users/Hashtags
